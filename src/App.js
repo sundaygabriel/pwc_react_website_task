@@ -12,7 +12,6 @@ import Recruitmentform from "./pages/Recruitmentform";
 import Posts from "./pages/Posts";
 import ToDos from "./pages/Todos";
 import Loginpage from "./pages/Loginpage";
-import SingleblogPost from "./pages/SingleblogPost";
 import Conditional from "./pages/Conditional";
 import Myprofile from "./pages/Myprofile";
 import Users from "./pages/Users";
@@ -37,7 +36,6 @@ function App() {
           <Route path="/todos" element={<ToDos />} />
           <Route path="/users" element={<Users />} />
           <Route path="/loginpage" element={<Loginpage />} />
-          <Route path="/singleblogPost" element={<SingleblogPost />} />
           <Route path="/conditional" element={<Conditional />} />
           <Route path="/myprofile" element={<Myprofile />} />
         </Routes>

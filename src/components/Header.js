@@ -19,7 +19,6 @@ const Header = () => {
         <Link to="/applicationform">Application Form</Link>
         <Link to="/aboutus">About Us</Link>
         <Link to="/studentsdata">Students Data</Link>
-        <Link to="/singleblogpost">SingleBlogPost</Link>
         <Link to="/Posts">Posts</Link>
         <Link to="/Todos">Todos</Link>
         <Link to="/Users">Users </Link>
