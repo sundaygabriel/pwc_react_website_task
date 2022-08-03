@@ -14,12 +14,17 @@ const Header = () => {
       </div>
       <div>
         <Link to="/">Home</Link>
-        <Link to="/contactUs">Contact Us</Link>
+        <Link to="/contactus">Contact Us</Link>
         <Link to="/gallery">Gallery</Link>
-        <Link to="/applicationForm">Application Form</Link>
-        <Link to="/aboutUs">About Us</Link>
-        <Link to="/studentsData">Students Data</Link>
+        <Link to="/applicationform">Application Form</Link>
+        <Link to="/aboutus">About Us</Link>
+        <Link to="/studentsdata">Students Data</Link>
+        <Link to="/singleblogpost">SingleBlogPost</Link>
         <Link to="/Posts">Posts</Link>
+        <Link to="/Todos">Todos</Link>
+        <Link to="/Users">Users </Link>
+        <Link to="/Conditional">Conditional</Link>
+        <Link to="/Recruitmentform">Recruitment Form </Link>
       </div>
     </header>
   );
